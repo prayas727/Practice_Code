@@ -1,0 +1,7 @@
+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
+Repo Url:-https://github.com/prayas727/Practice_Code.git
+
+git config --global user.name "prayas"
+git config --global user.name "prayaspikalmunde@gmail.com"
+
+git help commit
